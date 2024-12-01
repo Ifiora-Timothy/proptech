@@ -32,7 +32,7 @@ export default function Page() {
       </nav>
 
       {/* Main Content */}
-      <main className="max-w-7xl mx-auto px-5 sm:px-10 pt-[100px] sm:pt-8">
+      <main className=" mx-auto px-5 sm:px-10 pt-[100px] sm:pt-8">
         {/* Date Badge */}
         <div className="inline-block">
           <span className="text-[#02060E] bg-[#7AA2F7] px-4 py-2 rounded-full text-sm">
@@ -42,7 +42,7 @@ export default function Page() {
 
         {/* Hero Text */}
         <div className="space-y-2 sm:space-y-6">
-          <h1 className="text-[55px] leading-none md:text-7xl lg:text-[110px] lg:leading-[110px]  font-maname">
+          <h1 className="text-[55px] leading-none md:text-7xl lg:text-[110px] lg:leading-[110px] xl:text-[120px] xl:leading-[130px] font-maname">
             The Enugu
             <br />
             International
