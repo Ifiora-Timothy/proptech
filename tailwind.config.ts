@@ -8,6 +8,10 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        maname: ['var(--font-maname)','ui-serif','Georgia'],
+        grotesque: ['var(--font-grotesque)','ui-sans-serif'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
